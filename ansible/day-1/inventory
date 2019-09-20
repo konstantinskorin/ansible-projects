@@ -1,0 +1,2 @@
+[nodes]
+node_1 ansible_host=skorin-ansible1 ansible_connection=ssh ansible_ssh_user=vagrant ansible_ssh_private_key_file=/home/skorin/cm/ansible/key
